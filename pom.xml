@@ -20,10 +20,10 @@
   
   <scm>
 		<connection>
-			sscm:git:https://github.com/pavan565/Optima-
+			scm:git:https://github.com/pavan565/Optima-
 		</connection>
 		<developerConnection>
-			scm:svn:https://github.com/pavan565/Optima-
+			scm:git:https://github.com/pavan565/Optima-
 		</developerConnection>
 		<url>
 			https://github.com/pavan565/Optima-
