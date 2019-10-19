@@ -20,13 +20,13 @@
   
   <scm>
 		<connection>
-			scm:svn:http://spblrlap215.speridian.com/svn/Optima_Project/trunk
+			sscm:git:https://github.com/pavan565/Optima-
 		</connection>
 		<developerConnection>
-			scm:svn:http://spblrlap215.speridian.com/svn/Optima_Project/trunk
+			scm:svn:https://github.com/pavan565/Optima-
 		</developerConnection>
 		<url>
-			http://spblrlap215.speridian.com/svn/Optima_Project/trunk
+			https://github.com/pavan565/Optima-
 		</url>
 	</scm>
 
