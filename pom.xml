@@ -5,7 +5,7 @@
 
   <groupId>Optima</groupId>
   <artifactId>Optima</artifactId>
-  <version>1.6-SNAPSHOT</version>
+  <version>1.6</version>
   <packaging>war</packaging>
 
   <name>Optima Maven Webapp</name>
@@ -28,7 +28,7 @@
 		<url>
 			https://github.com/pavan565/Optima-
 		</url>
-	  <tag>HEAD</tag>
+	  <tag>Optima-1.6</tag>
   </scm>
 
   <dependencies>
