@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Welcome To Benefitalign Technologies!</h2>
-<img src="Benefitalign_logo.PNG" alt="Logo" height="100" width="90">
+<img src="Benefitalign.JPG" alt="Logo" height="100" width="500">
 <h2>Benefitalign is an American software company that primarily develops, licenses, 
 supports and sells software and related services in the health care industry. 
 Benefitalign also provides contact center services, CRM consulting and other services.
