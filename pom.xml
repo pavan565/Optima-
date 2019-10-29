@@ -78,7 +78,7 @@
   </build>
  <distributionManagement>
   <repository>
-    <id>localRepository</id>
+    <id>Repo</id>
 	<name>localRepository</name>
     <url>file:////home/ubuntu/War_Deploy</url>
   </repository>
